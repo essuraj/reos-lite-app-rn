@@ -14,9 +14,13 @@
   },
   "dependencies": {
     "buffer": "^5.2.1",
+    "bytebuffer": "^5.0.1",
+    "color": "^3.1.0",
     "react": "16.6.1",
     "react-native": "0.57.7",
     "react-native-ble-plx": "^1.0.1",
+    "react-native-color-picker": "^0.4.0",
+    "react-native-color-wheel": "^0.1.5",
     "react-native-paper": "^2.2.8",
     "react-native-vector-icons": "^6.1.0"
   },
